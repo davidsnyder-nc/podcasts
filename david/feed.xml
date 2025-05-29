@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI News Podcast</title>
+    <link>http://web.local:8080/news/</link>
+    <language>en-us</language>
+    <description>An AI-generated daily podcast of news with customizable categories read by Google&apos;s Notebook LM.</description>
+    <itunes:author>David Snyder</itunes:author>
+    <itunes:owner>
+        <itunes:name>David Snyder</itunes:name>
+        <itunes:email>davidsnyder@fastmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit> 
+    
+    <item>
+      <title>Daily_AI_News_Podcast 2025 05 29</title>
+      <link>https://raw.githubusercontent.com/davidsnyder-nc/podcasts/main/david/Daily_AI_News_Podcast-2025-05-29.m4a</link>
+      <guid isPermaLink="true">https://raw.githubusercontent.com/davidsnyder-nc/podcasts/main/david/Daily_AI_News_Podcast-2025-05-29.m4a</guid>
+      <pubDate>Thu, 29 May 2025 11:40:51 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/davidsnyder-nc/podcasts/main/david/Daily_AI_News_Podcast-2025-05-29.m4a" length="5937578" type="audio/x-m4a"/>
+      <description>Daily_AI_News_Podcast 2025 05 29</description> 
+      <itunes:author>David Snyder</itunes:author>
+      <itunes:summary>Daily_AI_News_Podcast 2025 05 29</itunes:summary>
+      <itunes:explicit>no</itunes:explicit> 
+      </item>
+  </channel>
+</rss>
