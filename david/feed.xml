@@ -12,5 +12,17 @@
         <itunes:email>user@example.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit> 
-    </channel>
+    
+    <item>
+      <title>Morning Digest Tech, Entertainment, and Global News</title>
+      <link>https://raw.githubusercontent.com/davidsnyder-nc/podcasts/main/david/Daily_AI_News_Podcast-2025-05-29.m4a</link>
+      <guid isPermaLink="true">https://raw.githubusercontent.com/davidsnyder-nc/podcasts/main/david/Daily_AI_News_Podcast-2025-05-29.m4a</guid>
+      <pubDate>Thu, 29 May 2025 12:02:56 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/davidsnyder-nc/podcasts/main/david/Daily_AI_News_Podcast-2025-05-29.m4a" length="5937578" type="audio/x-m4a"/>
+      <description>Morning Digest Tech, Entertainment, and Global News</description> 
+      <itunes:author>David</itunes:author>
+      <itunes:summary>Morning Digest Tech, Entertainment, and Global News</itunes:summary>
+      <itunes:explicit>no</itunes:explicit> 
+      </item>
+  </channel>
 </rss>
