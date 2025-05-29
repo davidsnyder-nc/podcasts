@@ -47,5 +47,17 @@
       <itunes:summary>Morning Digest_ Tech, Entertainment, and Global News</itunes:summary>
       <itunes:explicit>no</itunes:explicit> 
       </item>
+  
+    <item>
+      <title>Daily_AI_News_Podcast 2025 05 29</title>
+      <link>https://raw.githubusercontent.com/davidsnyder-nc/podcasts/main/david/Daily_AI_News_Podcast-2025-05-29.m4a</link>
+      <guid isPermaLink="true">https://raw.githubusercontent.com/davidsnyder-nc/podcasts/main/david/Daily_AI_News_Podcast-2025-05-29.m4a</guid>
+      <pubDate>Thu, 29 May 2025 11:20:24 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/davidsnyder-nc/podcasts/main/david/Daily_AI_News_Podcast-2025-05-29.m4a" length="5937578" type="audio/x-m4a"/>
+      <description>Daily_AI_News_Podcast 2025 05 29</description> 
+      <itunes:author>David Snyder</itunes:author>
+      <itunes:summary>Daily_AI_News_Podcast 2025 05 29</itunes:summary>
+      <itunes:explicit>no</itunes:explicit> 
+      </item>
   </channel>
 </rss>
