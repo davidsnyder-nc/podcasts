@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>Top 12 Categories with RSS Feeds</title>
+    <title>Top 13 Categories with RSS Feeds</title>
   </head>
   <body>
     <outline text="General News">
@@ -102,6 +102,10 @@
       <outline text="The Guardian World" type="rss" xmlUrl="https://www.theguardian.com/world/rss"/>
       <outline text="Reuters World News" type="rss" xmlUrl="http://feeds.reuters.com/Reuters/worldNews"/>
       <outline text="NPR World" type="rss" xmlUrl="https://www.npr.org/rss/rss.php?id=1004"/>
+    </outline>
+    <outline text="Local News">
+      <outline text="WRAL Local News" type="rss" xmlUrl="http://www.wral.com/news/rss/142/"/>
+      <outline text="WRAL North Carolina News" type="rss" xmlUrl="http://www.wral.com/news/rss/74/"/>
     </outline>
   </body>
 </opml>
