@@ -1,0 +1,83 @@
+Media Tracker Report - 2025-06-01 (Generated: 2025-06-01 18:45:04)
+==================================================================
+
+PLEX MOVIES ADDED
+====================
+Title: The Severed Sun
+Year: 2025
+Added: 2025-05-31
+------------------------------
+Title: Mountainhead
+Year: 2025
+Added: 2025-05-31
+------------------------------
+
+PLEX TV SHOWS ADDED
+======================
+Title: North Carolina Barbecue
+Year: 2024
+Added: 2025-06-01
+------------------------------
+Title: PBS News Weekend
+Year: 2025
+Added: 2025-06-01
+------------------------------
+Title: Mudroom Cubbies
+Year: 2025
+Added: 2025-06-01
+------------------------------
+Title: CBS News Sunday Morning
+Year: 2025
+Added: 2025-06-01
+------------------------------
+Title: WECT News at 11
+Year: 2025
+Added: 2025-05-31
+------------------------------
+Title: My Mother's Murder Trial Part Two
+Year: 2025
+Added: 2025-05-31
+------------------------------
+Title: My Mother's Murder Trial Part One
+Year: 2025
+Added: 2025-05-31
+------------------------------
+Title: NBC Nightly News With Lester Holt
+Year: 2025
+Added: 2025-05-31
+------------------------------
+Title: Tennis Court
+Year: 2025
+Added: 2025-06-01
+------------------------------
+Title: Episode 5
+Year: 2025
+Added: 2025-06-01
+------------------------------
+Title: The Beast in Me
+Year: 2025
+Added: 2025-06-01
+------------------------------
+Title: The Reality War (2)
+Year: 2025
+Added: 2025-05-31
+------------------------------
+
+SONARR TV SCHEDULE
+===================
+Series: Unknown Series
+Episode: S01E10 - The Beast in Me
+Air Date: 2025-06-01
+------------------------------
+Series: Unknown Series
+Episode: S09E06 - Tennis Court
+Air Date: 2025-06-01
+------------------------------
+Series: Unknown Series
+Episode: S01E05 - Episode 5
+Air Date: 2025-06-01
+------------------------------
+Series: Unknown Series
+Episode: S08E02 - Valkyrick
+Air Date: 2025-06-01
+------------------------------
