@@ -1,29 +1,29 @@
-Media Tracker Report - 2025-06-01 (Generated: 2025-06-01 18:58:33)
+Media Tracker Report - 2025-06-01 (Generated: 2025-06-01 18:59:18)
 ==================================================================
 
 PLEX MOVIES ADDED
 ====================
-Title: The Severed Sun------------------------------
-Title: Mountainhead------------------------------
+The Severed Sun
+Mountainhead
 
 PLEX TV SHOWS ADDED
 ======================
-Title: North Carolina Barbecue------------------------------
-Title: PBS News Weekend------------------------------
-Title: Mudroom Cubbies------------------------------
-Title: CBS News Sunday Morning------------------------------
-Title: WECT News at 11------------------------------
-Title: My Mother's Murder Trial Part Two------------------------------
-Title: My Mother's Murder Trial Part One------------------------------
-Title: NBC Nightly News With Lester Holt------------------------------
-Title: Tennis Court------------------------------
-Title: Episode 5------------------------------
-Title: The Beast in Me------------------------------
-Title: The Reality War (2)------------------------------
+North Carolina Barbecue
+PBS News Weekend
+Mudroom Cubbies
+CBS News Sunday Morning
+WECT News at 11
+My Mother's Murder Trial Part Two
+My Mother's Murder Trial Part One
+NBC Nightly News With Lester Holt
+Tennis Court
+Episode 5
+The Beast in Me
+The Reality War (2)
 
 SONARR TV SCHEDULE
 ===================
-Series: MobLand------------------------------
-Series: Grand Designs New Zealand------------------------------
-Series: The Bombing of Pan Am 103------------------------------
-Series: Rick and Morty------------------------------
+MobLand
+Grand Designs New Zealand
+The Bombing of Pan Am 103
+Rick and Morty
