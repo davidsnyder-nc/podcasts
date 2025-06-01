@@ -1,4 +1,4 @@
-Media Tracker Report - 2025-06-01 (Generated: 2025-06-01 18:55:37)
+Media Tracker Report - 2025-06-01 (Generated: 2025-06-01 18:58:33)
 ==================================================================
 
 PLEX MOVIES ADDED
@@ -23,7 +23,7 @@ Title: The Reality War (2)------------------------------
 
 SONARR TV SCHEDULE
 ===================
-Series: Unknown Series------------------------------
-Series: Unknown Series------------------------------
-Series: Unknown Series------------------------------
-Series: Unknown Series------------------------------
+Series: MobLand------------------------------
+Series: Grand Designs New Zealand------------------------------
+Series: The Bombing of Pan Am 103------------------------------
+Series: Rick and Morty------------------------------
