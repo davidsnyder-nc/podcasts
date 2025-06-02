@@ -1,0 +1,18 @@
+Media Tracker Report - 2025-06-02 (Generated: 2025-06-02 13:54:15)
+==================================================================
+
+PLEX MOVIES ADDED
+=================
+No movies added recently.
+
+
+SONARR TV SCHEDULE
+==================
+Series: The Bombing of Pan Am 103
+Episode: S01E06 - Episode 6
+Air Date: 2025-06-02
+------------------------------
+Series: The Librarians: The Next Chapter
+Episode: S01E03 - And the Ghost Train
+Air Date: 2025-06-02
+------------------------------
