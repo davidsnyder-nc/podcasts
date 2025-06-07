@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>AI News Podcast</title>
+        <description>Daily AI news and updates</description>
+        <link>https://github.com/davidsnyder-nc/podcasts</link>
+        <language>en</language>
+        <lastBuildDate>Sat, 07 Jun 2025 15:20:42 -0400</lastBuildDate>
+        <author>DS</author>
+        <itunes:image href="https://raw.githubusercontent.com/davidsnyder-nc/podcasts/main/art.png"/>
+        <image>
+            <url>https://raw.githubusercontent.com/davidsnyder-nc/podcasts/main/art.png</url>
+            <title>AI News Podcast</title>
+            <link>https://github.com/davidsnyder-nc/podcasts</link>
+        </image>
+    </channel>
+</rss>
